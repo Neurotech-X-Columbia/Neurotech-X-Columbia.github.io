@@ -22,7 +22,7 @@ author: Neurotech X Columbia
 ###############################################
 
 navbar-links:
-  # About: "aboutme"
+  About: "aboutme"
   People: "people"
   Project: "project"
   Events: "events"
