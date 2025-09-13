@@ -15,7 +15,7 @@ baseurl: ""   # 组织/用户主页必须留空；只有“项目页”才写 /r
 title: Neurotech X Columbia
 
 # Your name to show in the footer
-author: Columbia University
+author: Students from Columbia University
 
 ###############################################
 # --- List of links in the navigation bar --- #
