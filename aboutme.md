@@ -12,4 +12,6 @@ We focus on:
 
 ### About us
 
-As a community, we aim to connect students and researchers who are passionate about advancing neurotechnology and AI. Stay tuned for our events, talks, and collaborations!
+As a community, we aim to connect students and researchers who are passionate about advancing neurotechnology and AI. Stay tuned for our events, talks, and collaborations!  
+
+We are a student organization led by graduate students from Columbia Engineering, but we welcome the entire Columbia community. Our members come from diverse undergraduate and graduate schools across the university. While we are recognized as the Columbia chapter of [NeurotechX](https://neurotechx.com/), we operate independently with our own initiatives and activities.
