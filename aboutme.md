@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Neurotech X Columbia
+subtitle: Columbia's Brain-Computer Interfaces Club!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+We are **NeurotechX Columbia**,  
+a student-run academic club at Columbia University.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+We focus on:  
+- Brain–Computer Interfaces (BCI)  
+- NeuroAI (the intersection of neuroscience and artificial intelligence)  
 
-What else do you need?
+### About us
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As a community, we aim to connect students and researchers who are passionate about advancing neurotechnology and AI.  
+Stay tuned for our events, talks, and collaborations!
