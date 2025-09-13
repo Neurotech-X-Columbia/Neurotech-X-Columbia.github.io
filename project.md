@@ -1,8 +1,9 @@
 ---
-layout: home
+layout: page
 title: Neurotech X Columbia
 subtitle: Columbia's Brain-Computer Interfaces Club!
 ---
+
 We are **NeurotechX Columbia**,  
 a student-run academic club at Columbia University.  
 
