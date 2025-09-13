@@ -44,9 +44,58 @@
   avatar: /assets/img/people/michael.jpg
   website: https://www.linkedin.com/in/michael-zhou-90475b32/
 
+- name: Gabriel Gonzalez
+  status: alumni
+  affiliation: SEAS
+  role: President
+  avatar: /assets/img/people/gabriel.jpg
+  website: https://www.linkedin.com/in/gabriel-gonzalez-56b93b198/
+
 - name: Judah Engel
   status: alumni
   affiliation: CC
   role: President
   avatar: /assets/img/people/judah.jpg
   website: https://www.linkedin.com/in/judah-engel-a173b31b8/
+
+- name: Nicolas Ouporov
+  status: alumni
+  affiliation: CC
+  role: VP Operations
+  avatar: /assets/img/people/nicolai.jpg
+  website: https://www.linkedin.com/in/nicolas-ouporov/
+
+- name: Isabella Souza
+  status: alumni
+  affiliation: CC
+  role: VP Outreach
+  avatar: /assets/img/people/isabella.jpg
+  website: https://www.linkedin.com/in/isabella-souza-493777169/
+
+- name: Giuliana Bilbao
+  status: alumni
+  affiliation: SEAS
+  role: Project Lead
+  avatar: /assets/img/people/giuliana.jpg
+  website: https://www.linkedin.com/in/giuliana-bilbao/
+
+- name: James Bole Pan
+  status: alumni
+  affiliation: CC
+  role: Secretary / Project Lead
+  avatar: /assets/img/people/james_pan.jpeg
+  website: https://james-bole-pan.github.io/
+
+- name: Aida Razavilar
+  status: alumni
+  affiliation: CC
+  role: VP Research
+  avatar: /assets/img/people/aida.jpg
+  website: https://www.linkedin.com/in/aida-razavilar-59847b123/ 
+
+- name: Greg Ou
+  status: alumni
+  affiliation: SEAS
+  role: Developer
+  avatar: /assets/img/people/greg.jpg
+  website: https://www.linkedin.com/in/greg-ou-69baa5189/
