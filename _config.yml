@@ -25,6 +25,7 @@ navbar-links:
   About: "aboutme"
   People: "people"
   Project: "project"
+  Publication: "publication"
   Events: "events"
   Join: "join"
   # Resources:
