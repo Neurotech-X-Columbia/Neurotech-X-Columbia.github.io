@@ -8,6 +8,8 @@
 ############################
 # --- Required options --- #
 ############################
+url: "https://neurotech-x-columbia.github.io"
+baseurl: ""   # 组织/用户主页必须留空；只有“项目页”才写 /repo-name
 
 # Name of website
 title: Neurotech X Columbia
@@ -102,7 +104,8 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "neurotech-x-columbia.github.io"  # 或干脆删掉这一行
+
 
 # Add the website title to the title of every page
 title-on-all-pages: true
