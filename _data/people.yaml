@@ -1,5 +1,6 @@
 # _data/people.yml
 - name: Linyang He
+  affiliation: SEAS & ZI
   role: President
   avatar: /assets/img/people/linyang.jpg   # 放图到此路径
   email: linyang.he@columbia.edu
@@ -8,6 +9,7 @@
   website: https://linyanghe.github.io
 
 - name: Yizi Zhang
+  affiliation: GSAS & ZI
   role: VP Academic
   avatar: /assets/img/people/yizi.jpg
   email: yz4123@columbia.edu
@@ -16,6 +18,7 @@
   website: https://www.linkedin.com/in/yizizhang
 
 - name: Nima Mesgarani
+  affiliation: SEAS & ZI
   role: Advisor
   avatar: /assets/img/people/nima.jpg
   email: nima@ee.columbia.edu

@@ -28,7 +28,8 @@ permalink: /people/
   margin: 0 auto 12px;
 }
 .person .name { font-size: 1.05rem; font-weight: 700; margin: 2px 0; }
-.person .role { color: #666; margin: 0 0 8px; }
+.person .role { color: #666; margin: 0 0 4px; }
+.person .affiliation { color:#555; font-size:0.9rem; margin:0 0 8px; font-style: italic; }
 .person .links a { margin: 0 6px; }
 </style>
 
@@ -38,11 +39,12 @@ permalink: /people/
   <div class="person">
     <img src="{{ p.avatar | relative_url }}" alt="{{ p.name }}">
     <div class="name">{{ p.name }}</div>
+    {% if p.affiliation %}
+      <div class="affiliation"><em>{{ p.affiliation }}</em></div>
+    {% endif %}
     <div class="role">{{ p.role }}</div>
     <div class="links">
       {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
-      <!-- {% if p.github %}<a href="https://github.com/{{ p.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %} -->
-      <!-- {% if p.linkedin %}<a href="https://www.linkedin.com/in/{{ p.linkedin }}/" target="_blank" rel="noopener">LinkedIn</a>{% endif %} -->
       {% if p.email %}<a href="mailto:{{ p.email }}">Email</a>{% endif %}
     </div>
   </div>
