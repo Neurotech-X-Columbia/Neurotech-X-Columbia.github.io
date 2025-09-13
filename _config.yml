@@ -26,6 +26,7 @@ navbar-links:
   People: "people"
   Project: "project"
   Events: "events"
+  Join: "join"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
