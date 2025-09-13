@@ -41,8 +41,8 @@ permalink: /people/
     <div class="role">{{ p.role }}</div>
     <div class="links">
       {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
-      {% if p.github %}<a href="https://github.com/{{ p.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %}
-      {% if p.linkedin %}<a href="https://www.linkedin.com/in/{{ p.linkedin }}/" target="_blank" rel="noopener">LinkedIn</a>{% endif %}
+      <!-- {% if p.github %}<a href="https://github.com/{{ p.github }}" target="_blank" rel="noopener">GitHub</a>{% endif %} -->
+      <!-- {% if p.linkedin %}<a href="https://www.linkedin.com/in/{{ p.linkedin }}/" target="_blank" rel="noopener">LinkedIn</a>{% endif %} -->
       {% if p.email %}<a href="mailto:{{ p.email }}">Email</a>{% endif %}
     </div>
   </div>
