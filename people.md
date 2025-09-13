@@ -34,8 +34,30 @@ permalink: /people/
 </style>
 
 <div class="people-grid">
-{% assign members = site.data.people %}
+{% assign members = site.data.people | where: "status", "current" %}
 {% for p in members %}
+  <div class="person">
+    <img src="{{ p.avatar | relative_url }}" alt="{{ p.name }}">
+    <div class="name">{{ p.name }}</div>
+    {% if p.affiliation %}
+      <div class="affiliation"><em>{{ p.affiliation }}</em></div>
+    {% endif %}
+    <div class="role">{{ p.role }}</div>
+    <div class="links">
+      {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
+      {% if p.email %}<a href="mailto:{{ p.email }}">Email</a>{% endif %}
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+---
+
+# Alumni
+
+<div class="people-grid">
+{% assign alumni = site.data.people | where: "status", "alumni" %}
+{% for p in alumni %}
   <div class="person">
     <img src="{{ p.avatar | relative_url }}" alt="{{ p.name }}">
     <div class="name">{{ p.name }}</div>

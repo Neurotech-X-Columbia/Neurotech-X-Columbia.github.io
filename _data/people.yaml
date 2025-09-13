@@ -1,5 +1,6 @@
 # _data/people.yml
 - name: Linyang He
+  status: current
   affiliation: SEAS & Zuckerman Institute
   role: President
   avatar: /assets/img/people/linyang.jpg   # 放图到此路径
@@ -9,6 +10,7 @@
   website: https://linyanghe.github.io
 
 - name: Yizi Zhang
+  status: current
   affiliation: GSAS & Zuckerman Institute
   role: VP Academic
   avatar: /assets/img/people/yizi.jpg
@@ -18,6 +20,7 @@
   website: https://www.linkedin.com/in/yizizhang
 
 - name: Isha Kaushik
+  status: current
   affiliation: TC & Zuckerman Institute
   role: VP Outreach
   avatar: /assets/img/people/isha.jpg   # 放图到此路径
@@ -27,8 +30,23 @@
   website: https://sites.google.com/view/ishakaushik/home
 
 - name: Nima Mesgarani
+  status: current
   affiliation: SEAS & Zuckerman Institute
   role: Advisor
   avatar: /assets/img/people/nima.jpg
   email: nima@ee.columbia.edu
   website: https://nima.ee.columbia.edu/ 
+
+- name: Michael Zhou
+  status: alumni
+  affiliation: SEAS
+  role: President
+  avatar: /assets/img/people/michael.jpg
+  website: https://www.linkedin.com/in/michael-zhou-90475b32/
+
+- name: Judah Engel
+  status: alumni
+  affiliation: CC
+  role: President
+  avatar: /assets/img/people/judah.jpg
+  website: https://www.linkedin.com/in/judah-engel-a173b31b8/
