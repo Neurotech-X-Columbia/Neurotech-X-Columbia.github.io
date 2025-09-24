@@ -29,6 +29,23 @@
   # linkedin: linyanghe
   website: https://sites.google.com/view/ishakaushik/home
 
+- name: Tianjian Zhang
+  status: current
+  affiliation: SEAS
+  avatar: /assets/img/people/tianjian.png
+  role: VP Events
+  email: 
+  website: https://www.linkedin.com/in/tjzhang5741/
+
+- name: Riki Shimizu  
+  status: current
+  affiliation: SEAS
+  avatar: /assets/img/people/riki.png
+  role: Project Lead
+  email: 
+  website: https://www.linkedin.com/in/riki-shimizu-85ba1019b
+
+
 - name: Nima Mesgarani
   status: current
   affiliation: SEAS & Zuckerman Institute
