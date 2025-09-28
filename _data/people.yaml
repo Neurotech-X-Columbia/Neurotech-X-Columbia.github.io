@@ -45,6 +45,13 @@
   email: 
   website: https://www.linkedin.com/in/riki-shimizu-85ba1019b
 
+- name: Liam Paninski
+  status: current
+  affiliation: Zuckerman Institute
+  role: Advisor
+  avatar: /assets/img/people/liam.jpg
+  email: liam@stat.columbia.edu
+  website: https://sites.stat.columbia.edu/liam/ 
 
 - name: Nima Mesgarani
   status: current
