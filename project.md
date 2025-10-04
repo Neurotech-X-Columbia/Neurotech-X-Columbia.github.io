@@ -4,8 +4,6 @@ title: Project
 permalink: /project/
 ---
 
-# Projects
-
 <style>
 .projects-grid {
   display: grid;
