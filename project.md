@@ -53,7 +53,7 @@ permalink: /project/
 </style>
 
 <div class="projects-grid">
-{% for p in site.data.projects %}
+{% for p in site.data.project %}
   <div class="project">
     <div class="name">{{ p.name }}</div>
     {% if p.lead %}
