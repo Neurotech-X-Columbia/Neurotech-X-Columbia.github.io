@@ -2,16 +2,38 @@
   description: >
     This project focuses on non-invasive brain-to-speech decoding from MEG signals, mapping neural activity directly to auditory speech units using the [LibriBrain dataset](https://neural-processing-lab.github.io/2025-libribrain-competition/). Our goal is to advance MEG-based speech decoding and identify the temporal and spatial patterns in the brain that support recovering speech elements.
   lead: Yizi Zhang
-  keywords: ['BCI', 'Speech Processing']
+  status: Active
+  keywords: ['BCI', 'MEG', 'Speech Processing']
 
 - name: "Audio-Visual Brain Encoding"
   description: >
     This project investigates how visual speech, such as lip movements, contributes to brain activity during natural language comprehension. By integrating frame-level visual features from the mouth region with linguistic representations from deep language models, we build multimodal encoding models to test whether visual information provides unique predictive power beyond auditory and linguistic cues.
   lead: Linyang He
-  keywords: ['Brain Encoding', 'Speech Processing', 'NeuroAI']
+  status: Active
+  keywords: ['Brain Encoding', 'ECoG', 'Speech Processing', 'NeuroAI']
 
 - name: "BrainSight: Image-to-Brain Visual Encoding"
   description: >
     This project aims to understand how the human brain encodes visual information by building models that predict brain activity (e.g., fMRI, EEG signals) from naturalistic images. By linking state-of-the-art computer vision models with neural data, we seek to uncover which image features best explain activity in different brain regions and how artificial systems align or diverge from human visual processing. 
   lead: Pinyuan Feng
+  status: Active
   keywords: ['Brain Encoding', 'Computational Vision', 'GenAI']
+
+
+- name: "Drone: EEG-Controlled Flight"
+  description: >
+    Develop a program that can interpret brain signals from an EEG headset and convert them into control instructions for a drone in real time. The system integrates data collection, signal processing, and control interfaces to enable closed-loop brain-to-drone communication.
+  lead: Matheu Campbell
+  status: Completed
+  keywords: ['BCI', 'EEG', 'Drone Control']
+
+- name: "Multiphase-EEG: SSVEP Speller"
+  description: >
+    This project develops an SSVEP-based speller system for the Columbia Neurotech Club. 
+    The goal is to use brain wave data collected from an OpenBCI headset to control an online keyboard interface. 
+    The system includes data acquisition, visual stimulus presentation, and signal decoding pipelines for steady-state visually evoked potentials (SSVEP), 
+    enabling users to type characters using only their brain activity.
+  lead: Matheu Campbell
+  status: Completed
+  keywords: ['BCI', 'EEG', 'SSVEP', 'Speller']
+

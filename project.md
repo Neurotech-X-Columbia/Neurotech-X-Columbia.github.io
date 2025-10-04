@@ -50,6 +50,25 @@ permalink: /project/
   border-radius: 8px;
   margin: 2px 4px 0 0;
 }
+.project .status {
+  display: inline-block;
+  font-weight: 600;
+  font-size: 0.85rem;
+  padding: 3px 10px;
+  border-radius: 8px;
+  margin-bottom: 8px;
+}
+
+.project .status.active {
+  background: #e6f4ea;
+  color: #137333;
+}
+
+.project .status.completed {
+  background: #fce8e6;
+  color: #a50e0e;
+}
+
 </style>
 
 <div class="projects-grid">
@@ -69,6 +88,10 @@ permalink: /project/
         {% endfor %}
       </div>
     {% endif %}
+    {% if p.status %}
+        <div class="status {{ p.status | downcase }}">{{ p.status }}</div>
+    {% endif %}
+
   </div>
 {% endfor %}
 </div>
