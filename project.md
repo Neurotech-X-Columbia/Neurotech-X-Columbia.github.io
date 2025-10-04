@@ -88,6 +88,7 @@ permalink: /project/
         {% endfor %}
       </div>
     {% endif %}
+    </div><br>
     {% if p.status %}
         <div class="status {{ p.status | downcase }}">{{ p.status }}</div>
     {% endif %}

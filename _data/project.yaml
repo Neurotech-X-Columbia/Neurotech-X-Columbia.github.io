@@ -20,20 +20,17 @@
   keywords: ['Brain Encoding', 'Computational Vision', 'GenAI']
 
 
+- name: "Multiphase-EEG: SSVEP Speller"
+  description: >
+    This project develops an SSVEP-based speller system. The goal is to use brain wave data collected from an OpenBCI headset to control an online keyboard interface. The system includes data acquisition, visual stimulus presentation, and signal decoding pipelines for steady-state visually evoked potentials (SSVEP), enabling users to type characters using only their brain activity.
+  lead: Matheu Campbell
+  status: Completed
+  keywords: ['BCI', 'EEG', 'SSVEP', 'Speller']
+
 - name: "Drone: EEG-Controlled Flight"
   description: >
     Develop a program that can interpret brain signals from an EEG headset and convert them into control instructions for a drone in real time. The system integrates data collection, signal processing, and control interfaces to enable closed-loop brain-to-drone communication.
   lead: Matheu Campbell
   status: Completed
   keywords: ['BCI', 'EEG', 'Drone Control']
-
-- name: "Multiphase-EEG: SSVEP Speller"
-  description: >
-    This project develops an SSVEP-based speller system for the Columbia Neurotech Club. 
-    The goal is to use brain wave data collected from an OpenBCI headset to control an online keyboard interface. 
-    The system includes data acquisition, visual stimulus presentation, and signal decoding pipelines for steady-state visually evoked potentials (SSVEP), 
-    enabling users to type characters using only their brain activity.
-  lead: Matheu Campbell
-  status: Completed
-  keywords: ['BCI', 'EEG', 'SSVEP', 'Speller']
 
