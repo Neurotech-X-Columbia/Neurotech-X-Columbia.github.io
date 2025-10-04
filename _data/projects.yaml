@@ -1,14 +1,17 @@
-- name: Brain2Speech: Decoding Brain Signals into Speech
-  description: This project focuses on non-invasive brain-to-speech decoding from MEG signals, mapping neural activity directly to auditory speech units using the [LibriBrain dataset](https://neural-processing-lab.github.io/2025-libribrain-competition/). Our goal is to advance MEG-based speech decoding and identify the temporal and spatial patterns in the brain that support recovering speech elements.
+- name: "Brain2Speech: Decoding Brain Signals into Speech"
+  description: >
+    This project focuses on non-invasive brain-to-speech decoding from MEG signals, mapping neural activity directly to auditory speech units using the [LibriBrain dataset](https://neural-processing-lab.github.io/2025-libribrain-competition/). Our goal is to advance MEG-based speech decoding and identify the temporal and spatial patterns in the brain that support recovering speech elements.
   lead: Yizi Zhang
   keywords: ['BCI', 'Speech Processing']
 
-- name: Audio-Visual Brain Encoding
-  description: This project investigates how visual speech, such as lip movements, contributes to brain activity during natural language comprehension. By integrating frame-level visual features from the mouth region with linguistic representations from deep language models, we build multimodal encoding models to test whether visual information provides unique predictive power beyond auditory and linguistic cues.
+- name: "Audio-Visual Brain Encoding"
+  description: >
+    This project investigates how visual speech, such as lip movements, contributes to brain activity during natural language comprehension. By integrating frame-level visual features from the mouth region with linguistic representations from deep language models, we build multimodal encoding models to test whether visual information provides unique predictive power beyond auditory and linguistic cues.
   lead: Linyang He
   keywords: ['Brain Encoding', 'Speech Processing', 'NeuroAI']
 
-- name: BrainSight: Image-to-Brain Visual Encoding
-  description: This project aims to understand how the human brain encodes visual information by building models that predict brain activity (e.g., fMRI, EEG signals) from naturalistic images. By linking state-of-the-art computer vision models with neural data, we seek to uncover which image features best explain activity in different brain regions and how artificial systems align or diverge from human visual processing. 
+- name: "BrainSight: Image-to-Brain Visual Encoding"
+  description: >
+    This project aims to understand how the human brain encodes visual information by building models that predict brain activity (e.g., fMRI, EEG signals) from naturalistic images. By linking state-of-the-art computer vision models with neural data, we seek to uncover which image features best explain activity in different brain regions and how artificial systems align or diverge from human visual processing. 
   lead: Pinyuan Feng
   keywords: ['Brain Encoding', 'Computational Vision', 'GenAI']
