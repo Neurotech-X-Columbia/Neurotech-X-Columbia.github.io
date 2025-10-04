@@ -75,6 +75,9 @@ permalink: /project/
 {% for p in site.data.project %}
   <div class="project">
     <div class="name">{{ p.name }}</div>
+    {% if p.status %}
+        <div class="status {{ p.status | downcase }}">{{ p.status }}</div>
+    {% endif %}
     {% if p.lead %}
       <div class="lead">Lead: {{ p.lead }}</div>
     {% endif %}
@@ -88,10 +91,7 @@ permalink: /project/
         {% endfor %}
       </div>
     {% endif %}
-    </div><br>
-    {% if p.status %}
-        <div class="status {{ p.status | downcase }}">{{ p.status }}</div>
-    {% endif %}
+
 
   </div>
 {% endfor %}
