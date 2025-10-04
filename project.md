@@ -60,7 +60,7 @@ permalink: /project/
       <div class="lead">Lead: {{ p.lead }}</div>
     {% endif %}
     {% if p.description %}
-      <div class="description">{{ p.description }}</div>
+      <div class="description">{{ p.description | markdownify }}</div>
     {% endif %}
     {% if p.keywords %}
       <div class="keywords">
