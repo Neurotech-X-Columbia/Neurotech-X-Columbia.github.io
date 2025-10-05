@@ -139,3 +139,31 @@
   role: Developer
   avatar: /assets/img/people/greg.jpg
   website: https://www.linkedin.com/in/greg-ou-69baa5189/
+
+- name: Matheu Campbell
+  status: alumni
+  affiliation: SEAS
+  role: Research Lead
+  avatar: /assets/img/people/matheu.jpg
+  website: https://www.linkedin.com/in/matheu-campbell-02a350246/
+
+- name: Yuchen Teng
+  status: alumni
+  affiliation: SEAS
+  role: Treasurer
+  avatar: /assets/img/people/yuchen.jpg
+  website: https://www.linkedin.com/in/yuchenteng0513/
+
+- name: Zhiyu (Century) Sun
+  status: alumni
+  affiliation: SEAS
+  role: VP Events
+  avatar: /assets/img/people/zhiyu.jpg
+  website: https://www.linkedin.com/in/zhiyusun/
+
+- name: Ashley Pasion
+  status: alumni
+  affiliation: Barnard
+  role: VP Outreach
+  avatar: /assets/img/people/ashley.jpg
+  website: https://www.linkedin.com/in/ashley-pasion-43a819229/
