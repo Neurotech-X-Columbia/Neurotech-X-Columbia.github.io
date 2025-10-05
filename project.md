@@ -5,9 +5,12 @@ permalink: /project/
 ---
 
 <style>
+/* fix mode */
+/*
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 28px;
   margin-top: 18px;
   align-items: start;
@@ -20,6 +23,28 @@ permalink: /project/
   border-radius: 14px;
   transition: box-shadow 0.2s ease;
 }
+*/
+
+/* masonry mode */
+.projects-grid {
+  column-count: 2;            /* 两列 */
+  column-gap: 28px;           /* 列间距 */
+  margin-top: 18px;
+}
+
+.project {
+  display: inline-block;
+  width: 100%;
+  background: #fff;
+  border: 1px solid #eee;
+  border-radius: 14px;
+  padding: 18px 16px;
+  margin-bottom: 28px;        /* 行间距 */
+  break-inside: avoid;        /* 防止卡片被拆分 */
+  transition: box-shadow 0.2s ease;
+}
+
+
 .project:hover {
   box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
