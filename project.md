@@ -91,8 +91,6 @@ permalink: /project/
         {% endfor %}
       </div>
     {% endif %}
-
-
   </div>
 {% endfor %}
 </div>

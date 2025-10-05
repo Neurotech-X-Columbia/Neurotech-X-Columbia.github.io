@@ -19,6 +19,12 @@
   status: Active
   keywords: ['Brain Encoding', 'Computational Vision', 'GenAI']
 
+- name: "Generative Decoders of Visual Cortical Representations"
+  description: >
+    This project investigates how neural signals can be transformed back into visual images using deep learning. Leveraging the THINGS Ventral Stream Spiking Dataset [(TVSD)](https://doi.gin.g-node.org/10.12751/g-node.hc7zlv/) — which records single-neuron activity from macaque visual areas V1, V4, and IT — the team developed a generative decoding pipeline that maps brain activity to perceived images. By integrating AlexNet, VDVAE, and Versatile Diffusion, the project revealed strong parallels between mid-level visual features in artificial networks and biological vision, advancing our understanding of how the brain encodes and reconstructs the visual world.
+  lead: Michael Zhou
+  status: Completed
+  keywords: ['BCI', 'Diffusion Models', 'Single Neuron']
 
 - name: "Multiphase-EEG: SSVEP Speller"
   description: >
