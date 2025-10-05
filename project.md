@@ -10,6 +10,7 @@ permalink: /project/
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 28px;
   margin-top: 18px;
+  align-items: start;
 }
 .project {
   text-align: left;
