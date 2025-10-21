@@ -12,6 +12,13 @@
   status: Active
   keywords: ['Brain Encoding', 'ECoG', 'Speech Processing', 'NeuroAI']
 
+- name: "SymPath: A Brain-Aware Emotional Audio Companion"
+  description: >
+    This project aims to create an emotion-adaptive conversational system that bridges brain–computer interfaces and audio foundation models. We first develop an EEG-based emotion recognition framework to infer users’ affective states from neural activity. Then, we train a speech-based dialogue model capable of adjusting its responses—both in tone and linguistic style—according to detected emotions. By integrating these two systems, we introduce a neuro-adaptive audio chatbot that responds empathetically and modulates its voice in real time based on how the user feels.
+  lead: Sukru Samet Dindar
+  status: Active
+  keywords: ['BCI', 'EEG', 'Emotion Detection', 'Conversational AI']
+
 - name: "BrainSight: Image-to-Brain Visual Encoding"
   description: >
     This project aims to understand how the human brain encodes visual information by building models that predict brain activity (e.g., fMRI, EEG signals) from naturalistic images. By linking state-of-the-art computer vision models with neural data, we seek to uncover which image features best explain activity in different brain regions and how artificial systems align or diverge from human visual processing. 
