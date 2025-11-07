@@ -47,13 +47,6 @@
   status: Active
   keywords: ['Speech Biomarkers', 'Acoustic Analysis', 'AI in Healthcare', 'Parkinson’s Disease']
 
-- name: "Multimodal modeling of audiovisual processing"
-  description: >
-    This project aims to use a combined EEG-fMRI dataset to both investigate how videos are processed in the brain, as well as to develop better EEG decoding models. First, taking a multimodal approach may help uncover new patterns in how information is represented and manipulated in various brain regions through leveraging the temporal resolution of EEG and the spatial resolution of fMRI. Second, simultaneously recorded fMRI data may be able to guide new decoding approaches for EEG, opening the door to more useful non-invasive BCIs. 
-  lead: Charan Santhirasegaran
-  status: Active
-  keywords: ['EEG', 'fMRI', 'Brain Decoding']
-
 - name: "Identifying Brain Regions Selectively Predicted by Vision Language Models"
   description: >
     This project investigates how the human brain integrates visual and linguistic information. Previous studies have modeled brain activity using language or vision models separately, but few have explored their joint representations. We aim to determine whether modern vision language models, which achieve deep semantic alignment rather than simple feature concatenation, better predict neural activity. The project focuses on identifying brain regions whose responses can be explained only by multimodal representations, not by unimodal or concatenated embeddings. By comparing encoding and decoding performance across model types, we seek to uncover where and how the brain supports multimodal semantic integration.
@@ -61,12 +54,12 @@
   status: Active
   keywords: ['Brain Encoding', 'Vision-Language Models', 'NeuroAI']  
 
-- name: "Generative Decoders of Visual Cortical Representations"
+- name: "Multimodal modeling of audiovisual processing"
   description: >
-    This project investigates how neural signals can be transformed back into visual images using deep learning. Leveraging the THINGS Ventral Stream Spiking Dataset [(TVSD)](https://doi.gin.g-node.org/10.12751/g-node.hc7zlv/) — which records single-neuron activity from macaque visual areas V1, V4, and IT — the team developed a generative decoding pipeline that maps brain activity to perceived images. By integrating AlexNet, VDVAE, and Versatile Diffusion, the project revealed strong parallels between mid-level visual features in artificial networks and biological vision, advancing our understanding of how the brain encodes and reconstructs the visual world.
-  lead: Michael Zhou
-  status: Completed
-  keywords: ['BCI', 'Diffusion Models', 'Single Neuron']
+    This project aims to use a combined EEG-fMRI dataset to both investigate how videos are processed in the brain, as well as to develop better EEG decoding models. First, taking a multimodal approach may help uncover new patterns in how information is represented and manipulated in various brain regions through leveraging the temporal resolution of EEG and the spatial resolution of fMRI. Second, simultaneously recorded fMRI data may be able to guide new decoding approaches for EEG, opening the door to more useful non-invasive BCIs. 
+  lead: Charan Santhirasegaran
+  status: Active
+  keywords: ['EEG', 'fMRI', 'Brain Decoding']
 
 - name: "A Novel Targeted Linguistic Embedding for Encoding Analysis"
   description: >
@@ -74,6 +67,13 @@
   lead: Linyang He
   status: Active
   keywords: ['Representation Learning', 'NLP', 'Brain Encoding', 'NeuroAI']
+
+- name: "Generative Decoders of Visual Cortical Representations"
+  description: >
+    This project investigates how neural signals can be transformed back into visual images using deep learning. Leveraging the THINGS Ventral Stream Spiking Dataset [(TVSD)](https://doi.gin.g-node.org/10.12751/g-node.hc7zlv/) — which records single-neuron activity from macaque visual areas V1, V4, and IT — the team developed a generative decoding pipeline that maps brain activity to perceived images. By integrating AlexNet, VDVAE, and Versatile Diffusion, the project revealed strong parallels between mid-level visual features in artificial networks and biological vision, advancing our understanding of how the brain encodes and reconstructs the visual world.
+  lead: Michael Zhou
+  status: Completed
+  keywords: ['BCI', 'Diffusion Models', 'Single Neuron']
 
 - name: "Multiphase-EEG: SSVEP Speller"
   description: >
