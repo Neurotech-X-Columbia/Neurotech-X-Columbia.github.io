@@ -61,7 +61,7 @@ description: Meet the Neurotech X Columbia team and alumni.
     <div class="person">
       <img src="{{ p.avatar | relative_url }}" alt="{{ p.name }}">
       <div class="name">{{ p.name }}</div>
-      <div class="role">{{ p.role }}</div>
+      <!-- <div class="role">{{ p.role }}</div> -->
       {% if p.affiliation %}<div class="affiliation"><em>{{ p.affiliation }}</em></div>{% endif %}
       <div class="links">
         {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
@@ -78,7 +78,7 @@ description: Meet the Neurotech X Columbia team and alumni.
     <div class="person">
       <img src="{{ p.avatar | relative_url }}" alt="{{ p.name }}">
       <div class="name">{{ p.name }}</div>
-      <div class="role">{{ p.role }}</div>
+      <!-- <div class="role">{{ p.role }}</div> -->
       {% if p.affiliation %}<div class="affiliation"><em>{{ p.affiliation }}</em></div>{% endif %}
       <div class="links">
         {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}

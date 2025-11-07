@@ -41,6 +41,15 @@
   website: https://www.linkedin.com/in/tjzhang5741/
   group: eboard
 
+- name: Ayon Roy
+  status: current
+  affiliation: SEAS
+  avatar: /assets/img/people/ayon.png
+  role: VP Operations
+  email: ar4982@columbia.edu
+  website: https://www.linkedin.com/in/ayon-roy/
+  group: eboard
+
 - name: Richard Antonello 
   status: current
   affiliation: Zuckerman Institute
@@ -75,6 +84,24 @@
   role: Project Lead
   email: pf2477@columbia.edu
   website: https://psychology.columbia.edu/content/pinyuan-feng
+  group: project_lead
+
+- name: Sree Kuntamukkala
+  status: current
+  affiliation: SEAS
+  avatar: /assets/img/people/sree.jpg
+  role: Project Lead
+  email: sk5505@columbia.edu
+  website: https://www.linkedin.com/in/sree-kuntamukkala/
+  group: project_lead
+
+- name: Charan Santhirasegaran
+  status: current
+  affiliation: SEAS
+  avatar: /assets/img/people/charan.jpg
+  role: Project Lead
+  email: cs4347@columbia.edu
+  website: https://www.linkedin.com/in/charan-segaran/
   group: project_lead
 
 - name: Nima Mesgarani
