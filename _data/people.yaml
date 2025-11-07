@@ -8,6 +8,7 @@
   # github: linyanghe
   # linkedin: linyanghe
   website: https://linyanghe.github.io
+  group: eboard
 
 - name: Yizi Zhang
   status: current
@@ -18,6 +19,7 @@
   # github: yizizhang
   # linkedin: yizi-zhang
   website: https://www.linkedin.com/in/yizizhang
+  group: eboard
 
 - name: Isha Kaushik
   status: current
@@ -28,6 +30,7 @@
   # github: linyanghe
   # linkedin: linyanghe
   website: https://sites.google.com/view/ishakaushik/home
+  group: eboard
 
 - name: Tianjian Zhang
   status: current
@@ -36,6 +39,7 @@
   role: VP Events
   email: 
   website: https://www.linkedin.com/in/tjzhang5741/
+  group: eboard
 
 - name: Richard Antonello 
   status: current
@@ -44,6 +48,7 @@
   role: Project Lead
   email: rja2163@columbia.edu
   website: https://scholar.google.com/citations?user=EtEVFLoAAAAJ&hl=en
+  group: project_lead
 
 - name: Sukru Samet Dindar
   status: current
@@ -52,6 +57,7 @@
   role: Project Lead
   email: sd3705@columbia.edu
   website: https://www.linkedin.com/in/sukru-samet-dindar/
+  group: project_lead
 
 - name: Riki Shimizu  
   status: current
@@ -60,6 +66,7 @@
   role: Project Lead
   email: 
   website: https://www.linkedin.com/in/riki-shimizu-85ba1019b
+  group: project_lead
 
 - name: Pinyuan Feng
   status: current
@@ -68,14 +75,7 @@
   role: Project Lead
   email: pf2477@columbia.edu
   website: https://psychology.columbia.edu/content/pinyuan-feng
-
-- name: Liam Paninski
-  status: current
-  affiliation: Zuckerman Institute
-  role: Advisor
-  avatar: /assets/img/people/liam.jpg
-  email: liam@stat.columbia.edu
-  website: https://sites.stat.columbia.edu/liam/ 
+  group: project_lead
 
 - name: Nima Mesgarani
   status: current
@@ -83,7 +83,17 @@
   role: Advisor
   avatar: /assets/img/people/nima.jpg
   email: nima@ee.columbia.edu
-  website: https://nima.ee.columbia.edu/ 
+  website: https://nima.ee.columbia.edu/
+  group: advisor 
+
+- name: Liam Paninski
+  status: current
+  affiliation: Zuckerman Institute
+  role: Advisor
+  avatar: /assets/img/people/liam.jpg
+  email: liam@stat.columbia.edu
+  website: https://sites.stat.columbia.edu/liam/
+  group: advisor 
 
 - name: Michael Zhou
   status: alumni
