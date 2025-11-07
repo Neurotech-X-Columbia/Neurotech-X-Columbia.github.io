@@ -33,6 +33,13 @@
   status: Active
   keywords: ['Brain Encoding', 'Computational Vision', 'GenAI']
 
+- name: "AI-Generated Music for Cognitive Enhancement"
+  description: >
+    This project explores how AI-generated music can positively influence brain functions such as focus, relaxation, and memory. We will experiment with generative models to create adaptive soundscapes and evaluate their impact through cognitive tasks or user studies.
+  lead: Rushin Bhatt
+  status: Active
+  keywords: ['AI Music', 'Cognitive Science', 'Brain Function', 'Deep Learning', 'Generative AI']
+
 - name: "AI Detection of Early Parkinson’s Disease from Speech Biomarkers"
   description: >
     This project develops an AI-based speech analysis system for the early detection of Parkinson’s disease using publicly available voice datasets such as PC-GITA and the UCI Parkinson’s Telemonitoring dataset. Parkinson’s disease causes subtle vocal changes that often appear before noticeable motor symptoms. By extracting acoustic biomarkers (e.g., jitter, shimmer, harmonic-to-noise ratio) and deep audio features from short speech recordings, the system will train machine-learning models to distinguish Parkinson’s patients from healthy individuals. The model’s predictions will be evaluated for accuracy and interpretability, aiming to identify reliable voice-based markers that could support low-cost, non-invasive screening and remote monitoring.
@@ -40,26 +47,12 @@
   status: Active
   keywords: ['Speech Biomarkers', 'Acoustic Analysis', 'AI in Healthcare', 'Parkinson’s Disease']
 
-- name: "A Novel Targeted Linguistic Embedding for Encoding Analysis"
-  description: >
-    This project aims to develop a targeted linguistic embedding that isolates representations of specific linguistic phenomena. The goal is to create embeddings that selectively capture information relevant to a chosen linguistic feature while suppressing unrelated dimensions. These embeddings will then be used in neural encoding analysis to investigate how distinct linguistic features are represented in the human brain.
-  lead: Linyang He
-  status: Active
-  keywords: ['Representation Learning', 'NLP', 'Brain Encoding', 'NeuroAI']
-
 - name: "Multimodal modeling of audiovisual processing"
   description: >
     This project aims to use a combined EEG-fMRI dataset to both investigate how videos are processed in the brain, as well as to develop better EEG decoding models. First, taking a multimodal approach may help uncover new patterns in how information is represented and manipulated in various brain regions through leveraging the temporal resolution of EEG and the spatial resolution of fMRI. Second, simultaneously recorded fMRI data may be able to guide new decoding approaches for EEG, opening the door to more useful non-invasive BCIs. 
   lead: Charan Santhirasegaran
   status: Active
   keywords: ['EEG', 'fMRI', 'Brain Decoding']
-
-- name: "AI-Generated Music for Cognitive Enhancement"
-  description: >
-    This project explores how AI-generated music can positively influence brain functions such as focus, relaxation, and memory. We will experiment with generative models to create adaptive soundscapes and evaluate their impact through cognitive tasks or user studies.
-  lead: Rushin Bhatt
-  status: Active
-  keywords: ['AI Music', 'Cognitive Science', 'Brain Function', 'Deep Learning', 'Generative AI']
 
 - name: "Identifying Brain Regions Selectively Predicted by Vision Language Models"
   description: >
@@ -74,6 +67,13 @@
   lead: Michael Zhou
   status: Completed
   keywords: ['BCI', 'Diffusion Models', 'Single Neuron']
+
+- name: "A Novel Targeted Linguistic Embedding for Encoding Analysis"
+  description: >
+    This project aims to develop a targeted linguistic embedding that isolates representations of specific linguistic phenomena. The goal is to create embeddings that selectively capture information relevant to a chosen linguistic feature while suppressing unrelated dimensions. These embeddings will then be used in neural encoding analysis to investigate how distinct linguistic features are represented in the human brain.
+  lead: Linyang He
+  status: Active
+  keywords: ['Representation Learning', 'NLP', 'Brain Encoding', 'NeuroAI']
 
 - name: "Multiphase-EEG: SSVEP Speller"
   description: >
