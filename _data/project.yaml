@@ -5,6 +5,13 @@
   status: Active
   keywords: ['BCI', 'MEG', 'Speech Processing']
 
+- name: "Benchmarking Audio-Text LLMs for Brain Encoding"
+  description: >
+    This project aims to investigate audio-text large language models (Audio-Text LLMs) as potential improvements over existing models such as Whisper for encoding brain responses. The team will benchmark and compare encoding models across multiple data modalities to evaluate their effectiveness and uncover cross-modal representations relevant to neural encoding.
+  lead: Richard Antonello
+  status: Active
+  keywords: ['Brain Encoding', 'Multimodal Learning', 'Audio-Text LLMs', 'NeuroAI']
+
 - name: "Audio-Visual Brain Encoding: How the Brain Reads Lips?"
   description: >
     This project investigates how lip movements contribute to brain activity during natural speech comprehension. We extract lip movement features using computer vision models and audio features using speech models, then build multimodal encoding models to examine whether visual articulatory information provides unique predictive power beyond auditory and linguistic cues. Specifically, we aim to understand how visual speech modulates and interacts with neural processes underlying speech perception and comprehension. This is an ongoing project. Students with computer vision experience are especially encouraged to join!
@@ -39,13 +46,6 @@
   lead: Linyang He
   status: Active
   keywords: ['Representation Learning', 'NLP', 'Brain Encoding', 'NeuroAI']
-
-- name: "Benchmarking Audio-Text LLMs for Brain Encoding"
-  description: >
-    This project aims to investigate audio-text large language models (Audio-Text LLMs) as potential improvements over existing models such as Whisper for encoding brain responses. The team will benchmark and compare encoding models across multiple data modalities to evaluate their effectiveness and uncover cross-modal representations relevant to neural encoding.
-  lead: Richard Antonello
-  status: Active
-  keywords: ['Brain Encoding', 'Multimodal Learning', 'Audio-Text LLMs', 'NeuroAI']
 
 - name: "Multimodal modeling of audiovisual processing"
   description: >
