@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-permalink: /people/
+permalink: /people_old/
 description: Meet the Neurotech X Columbia team and alumni.
 ---
 
