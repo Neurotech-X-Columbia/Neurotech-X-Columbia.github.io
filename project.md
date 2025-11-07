@@ -7,6 +7,11 @@ permalink: /project/
 <style>
 /* fix mode */
 
+.page-content {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
