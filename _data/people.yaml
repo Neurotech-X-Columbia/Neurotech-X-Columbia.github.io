@@ -24,7 +24,7 @@
 - name: Marine Kaufmann
   status: current
   affiliation: SEAS
-  role: VP Research
+  role: VP Operations
   avatar: /assets/img/people/marine.webp   # 放图到此路径
   email: ik2583@tc.columbia.edu
   # github: linyanghe
@@ -45,7 +45,7 @@
   status: current
   affiliation: SEAS
   avatar: /assets/img/people/ayon.png
-  role: VP Operations
+  role: VP Finance
   email: ar4982@columbia.edu
   website: https://www.linkedin.com/in/ayon-roy/
   group: eboard
