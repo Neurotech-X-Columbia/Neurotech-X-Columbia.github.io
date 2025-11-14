@@ -32,6 +32,17 @@
   website: http://www.marinekauf.com/
   group: eboard
 
+- name: Isha Kaushik
+  status: current
+  affiliation: TC
+  role: VP Outreach
+  avatar: /assets/img/people/isha.jpg   # 放图到此路径
+  email: ik2583@tc.columbia.edu
+  # github: linyanghe
+  # linkedin: linyanghe
+  website: https://sites.google.com/view/ishakaushik/home
+  group: eboard
+
 - name: Tianjian Zhang
   status: current
   affiliation: SEAS
