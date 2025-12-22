@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Neurotech X Columbia
-subtitle: Columbia's Brain-Computer Interfaces Club!
+subtitle: Columbia's Brain-Computer Interfaces Society!
 ---
 
-We are **Neurotech X Columbia**, a student-run academic club at Columbia University.  
+We are **Neurotech X Columbia**, a student-run academic society at Columbia University.  
 
 We focus on:  
 - Brain–Computer Interfaces (BCI)  
