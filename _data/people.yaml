@@ -43,15 +43,6 @@
   website: https://sites.google.com/view/ishakaushik/home
   group: eboard
 
-- name: Tianjian Zhang
-  status: current
-  affiliation: SEAS
-  avatar: /assets/img/people/tianjian.png
-  role: VP Events
-  email: 
-  website: https://www.linkedin.com/in/tjzhang5741/
-  group: eboard
-
 - name: Ayon Roy
   status: current
   affiliation: SEAS
@@ -141,6 +132,14 @@
   email: liam@stat.columbia.edu
   website: https://sites.stat.columbia.edu/liam/
   group: advisor 
+
+- name: Tianjian Zhang
+  status: alumni
+  affiliation: SEAS
+  avatar: /assets/img/people/tianjian.png
+  role: VP Events
+  email: 
+  website: https://www.linkedin.com/in/tjzhang5741/
 
 - name: Michael Zhou
   status: alumni
