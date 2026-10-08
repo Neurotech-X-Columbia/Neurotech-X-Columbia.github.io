@@ -10,15 +10,14 @@
   website: https://linyanghe.github.io
   group: eboard
 
-- name: Yizi Zhang
+- name: Xinjie Zhang
   status: current
-  affiliation: GSAS & Zuckerman Institute
+  affiliation: Columbia University
   role: VP Research
-  avatar: /assets/img/people/yizi.jpg
-  email: yz4123@columbia.edu
-  # github: yizizhang
-  # linkedin: yizi-zhang
-  website: https://www.linkedin.com/in/yizizhang
+  # Photo and email: https://baochaixue.github.io/
+  avatar: /assets/img/people/xinjie.jpg
+  email: xinjie.zhang@columbia.edu
+  website: https://www.linkedin.com/in/xinjie-zhang-158076306/
   group: eboard
 
 - name: Marine Kaufmann
@@ -32,15 +31,13 @@
   website: http://www.marinekauf.com/
   group: eboard
 
-- name: Isha Kaushik
+- name: Pinyuan Feng
   status: current
-  affiliation: TC
+  affiliation: GSAS & Zuckerman Institute
+  avatar: /assets/img/people/pinyuan.jpg
   role: VP Outreach
-  avatar: /assets/img/people/isha.jpg   # 放图到此路径
-  email: ik2583@tc.columbia.edu
-  # github: linyanghe
-  # linkedin: linyanghe
-  website: https://sites.google.com/view/ishakaushik/home
+  email: pf2477@columbia.edu
+  website: https://psychology.columbia.edu/content/pinyuan-feng
   group: eboard
 
 - name: Ayon Roy
@@ -77,15 +74,6 @@
   role: Project Lead
   email: 
   website: https://www.linkedin.com/in/riki-shimizu-85ba1019b
-  group: project_lead
-
-- name: Pinyuan Feng
-  status: current
-  affiliation: GSAS & Zuckerman Institute
-  avatar: /assets/img/people/pinyuan.jpg
-  role: Project Lead
-  email: pf2477@columbia.edu
-  website: https://psychology.columbia.edu/content/pinyuan-feng
   group: project_lead
 
 - name: Sree Kuntamukkala
@@ -132,6 +120,26 @@
   email: liam@stat.columbia.edu
   website: https://sites.stat.columbia.edu/liam/
   group: advisor 
+
+- name: Yizi Zhang
+  status: alumni
+  affiliation: GSAS & Zuckerman Institute
+  role: VP Research
+  avatar: /assets/img/people/yizi.jpg
+  email: yz4123@columbia.edu
+  # github: yizizhang
+  # linkedin: yizi-zhang
+  website: https://www.linkedin.com/in/yizizhang
+
+- name: Isha Kaushik
+  status: alumni
+  affiliation: TC
+  role: VP Outreach
+  avatar: /assets/img/people/isha.jpg   # 放图到此路径
+  email: ik2583@tc.columbia.edu
+  # github: linyanghe
+  # linkedin: linyanghe
+  website: https://sites.google.com/view/ishakaushik/home
 
 - name: Tianjian Zhang
   status: alumni
