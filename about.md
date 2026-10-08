@@ -17,6 +17,7 @@ This scientific tradition is matched by a strong history of entrepreneurship, ma
 - **[Kampto Neurotech](https://www.kamptotech.com/about)**, co-founded by Columbia Engineering alumnus Nanyu Zeng, building on research in Ken Shepard's lab.
 - **[Sharper Sense](https://www.sharpersense.com/)**, founded by [Charles Rodenkirch](https://www.linkedin.com/in/charlesrodenkirch/), a Columbia biomedical engineering PhD alumnus.
 - **[Kyma Neuro](https://www.kymaneuro.com/)**, founded by [Evan Weiss](https://neclab.bme.columbia.edu/node/103), a Columbia biomedical engineering PhD alumnus.
+- **[Egra](https://www.egra.ai/)**, co-founded by Columbia alumni [Brian Daley](https://www.linkedin.com/in/briandaley24) and [Peyton Chui](https://www.linkedin.com/in/peyton-chui), developing foundation models for EEG signals.
 
 We welcome students, researchers, alumni, and all members of the Columbia community interested in BCI, neurotechnology, and neuroscience entrepreneurship. Whether you want to explore the science, build a project, or develop an idea for a startup, [join Neurotech X Columbia]({{ '/engage/' | relative_url }}) to learn and create with us.
 
