@@ -21,6 +21,6 @@ We welcome students, researchers, alumni, and all members of the Columbia commun
 
 ### About us
 
-We are **Neurotech X Columbia**, a student-run academic society connecting students and researchers across Columbia University around **brain–computer interfaces (BCI)**, **neurotechnology**, and **NeuroAI**, the intersection of neuroscience and artificial intelligence. Through research projects, talks, and collaborations, we create opportunities to learn together and turn ideas into working technology.
+We are **Neurotech X Columbia**, a student-run academic and entrepreneur society connecting students and researchers across Columbia University around **brain–computer interfaces (BCI)**, **neurotechnology**, and **NeuroAI**, the intersection of neuroscience and artificial intelligence. Through research projects, talks, and collaborations, we create opportunities to learn together and turn ideas into working technology.
 
 Led by graduate students from Columbia Engineering, our society brings together members from undergraduate and graduate schools across the university. We are recognized as the Columbia chapter of [NeurotechX](https://neurotechx.com/) and independently organize our own initiatives and activities.
