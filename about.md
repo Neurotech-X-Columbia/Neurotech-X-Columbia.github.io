@@ -10,7 +10,8 @@ Columbia has a distinguished history of neuroscience research, including [Nobel 
 
 This scientific tradition is matched by a strong history of entrepreneurship, making Columbia an important center for BCI and neurotechnology innovation around the world. Members of the Columbia community have founded or co-founded companies including:
 
-- **[CTRL-labs](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/)**, co-founded by Columbia neuroscience alumni and acquired by Facebook in 2019, with its work continuing within Meta's Reality Labs.
+- **[CTRL-labs](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/)**, co-founded by Columbia neuroscience alumni [Thomas Reardon](https://secretary.columbia.edu/directory/thomas-reardon), Patrick Kaifosh, and Tim Machado. Acquired by Facebook in 2019, its work continues within Meta's Reality Labs.
+- **[Flourish](https://flourishlabs.ai/)**, a new NeuroAI startup co-founded by Reardon, developing AI inspired by the brain with a focus on energy efficiency and continuous learning.
 - **[OpenBCI](https://openbci.com/)**, co-founded by Columbia Engineering alumnus [Conor Russomanno](https://conorrussomanno.com/).
 - **[Constellation](https://www.constellationlab.io/)**, co-founded by [Mehdi Azabou](https://www.linkedin.com/in/mehdiazabou/), a former Columbia ARNI postdoctoral researcher.
 - **[Kampto Neurotech](https://www.kamptotech.com/about)**, co-founded by Columbia Engineering alumnus Nanyu Zeng, building on research in Ken Shepard's lab.
