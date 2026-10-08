@@ -20,7 +20,7 @@ This scientific tradition is matched by a strong history of entrepreneurship, ma
 - **[Egra](https://www.egra.ai/)**, co-founded by Columbia alumni [Brian Daley](https://www.linkedin.com/in/briandaley24) and [Peyton Chui](https://www.linkedin.com/in/peyton-chui), developing foundation models for EEG signals.
 - **[Alto Neuroscience](https://altoneuroscience.com/)**, founded by [Amit Etkin](https://altoneuroscience.com/team/amit-etkin-md-phd/), a Columbia MD/PhD alumnus, developing precision medicines for neuropsychiatric disorders.
 - **[Omniscient Neurotechnology](https://www.o8t.com/)**, co-founded by [Michael Sughrue](https://www.linkedin.com/in/michael-sughrue-482024258), a Columbia medical school alumnus, developing AI tools for mapping and analyzing brain networks.
-- **[Motif Neurotech](https://motifneuro.tech/)**, developing therapeutic brain–computer interfaces for mental health.
+- **[Motif Neurotech](https://motifneuro.tech/)**, co-founded by [Sameer Sheth](https://news.columbia.edu/news/exploring-uncharted-regions-brain-better-understand-human-communication), a former Columbia neurosurgery faculty member, developing therapeutic brain–computer interfaces for mental health.
 
 We welcome students, researchers, alumni, and all members of the Columbia community interested in BCI, neurotechnology, and neuroscience entrepreneurship. Whether you want to explore the science, build a project, or develop an idea for a startup, [join Neurotech X Columbia]({{ '/engage/' | relative_url }}) to learn and create with us.
 
