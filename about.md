@@ -12,7 +12,7 @@ Led by graduate students from Columbia Engineering, our society brings together 
 
 Our community draws inspiration from Columbia's distinguished neuroscience tradition, from [Nobel Prize-winning discoveries in memory and sensory perception](https://www.neurosciencephd.columbia.edu/content/history-program) to the world-class research at the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/about-us) and the [Center for Theoretical Neuroscience (CTN)](https://ctn.zuckermaninstitute.columbia.edu/about). Their experimental, theoretical, and computational approaches to understanding the brain provide a rich setting for exploring BCI and NeuroAI.
 
-That tradition also extends beyond the lab. Columbia's record of entrepreneurship has made it an important center for BCI and neurotechnology innovation in the United States, particularly on the East Coast. Companies founded or co-founded by members of the Columbia community include:
+That tradition also extends beyond the lab. Columbia's record of entrepreneurship has made it an important center for BCI and neurotechnology innovation around the world. Companies founded or co-founded by members of the Columbia community include:
 
 - **[CTRL-labs](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/)**, co-founded by Columbia neuroscience alumni and acquired by Facebook in 2019, with its work continuing within Meta's Reality Labs.
 - **[OpenBCI](https://openbci.com/)**, co-founded by Columbia Engineering alumnus [Conor Russomanno](https://conorrussomanno.com/).
