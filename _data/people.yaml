@@ -10,14 +10,13 @@
   website: https://linyanghe.github.io
   group: eboard
 
-- name: Xinjie Zhang
+- name: Pinyuan Feng
   status: current
-  affiliation: Columbia University
-  role: VP Research
-  # Photo and email: https://baochaixue.github.io/
-  avatar: /assets/img/people/xinjie.jpg
-  email: xinjie.zhang@columbia.edu
-  website: https://www.linkedin.com/in/xinjie-zhang-158076306/
+  affiliation: GSAS & Zuckerman Institute
+  avatar: /assets/img/people/pinyuan.jpg
+  role: VP Outreach
+  email: pf2477@columbia.edu
+  website: https://psychology.columbia.edu/content/pinyuan-feng
   group: eboard
 
 - name: Marine Kaufmann
@@ -31,13 +30,14 @@
   website: http://www.marinekauf.com/
   group: eboard
 
-- name: Pinyuan Feng
+- name: Xinjie Zhang
   status: current
-  affiliation: GSAS & Zuckerman Institute
-  avatar: /assets/img/people/pinyuan.jpg
-  role: VP Outreach
-  email: pf2477@columbia.edu
-  website: https://psychology.columbia.edu/content/pinyuan-feng
+  affiliation: Columbia University
+  role: VP Research
+  # Photo and email: https://baochaixue.github.io/
+  avatar: /assets/img/people/xinjie.jpg
+  email: xinjie.zhang@columbia.edu
+  website: https://www.linkedin.com/in/xinjie-zhang-158076306/
   group: eboard
 
 - name: Ayon Roy
