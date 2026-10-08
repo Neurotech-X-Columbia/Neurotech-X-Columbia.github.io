@@ -4,23 +4,15 @@ title: Neurotech X Columbia
 subtitle: Columbia's Brain-Computer Interfaces Society!
 ---
 
-We are **Neurotech X Columbia**, a student-run academic society at Columbia University.  
-
-We focus on:  
-- Brain–Computer Interfaces (BCI)  
-- NeuroAI (the intersection of neuroscience and artificial intelligence)  
-
 ### About us
 
-As a community, we aim to connect students and researchers who are passionate about advancing neurotechnology and AI. Stay tuned for our events, talks, and collaborations!  
+We are **Neurotech X Columbia**, a student-run academic society connecting students and researchers across Columbia University around **brain–computer interfaces (BCI)**, **neurotechnology**, and **NeuroAI**, the intersection of neuroscience and artificial intelligence. Through research projects, talks, and collaborations, we create opportunities to learn together and turn ideas into working technology.
 
-We are a student organization led by graduate students from Columbia Engineering, but we welcome the entire Columbia community. Our members come from diverse undergraduate and graduate schools across the university. While we are recognized as the Columbia chapter of [NeurotechX](https://neurotechx.com/), we operate independently with our own initiatives and activities.
+Led by graduate students from Columbia Engineering, our society brings together members from undergraduate and graduate schools across the university. We are recognized as the Columbia chapter of [NeurotechX](https://neurotechx.com/) and independently organize our own initiatives and activities.
 
-### BCI & Neurotech at Columbia
+Our community draws inspiration from Columbia's distinguished neuroscience tradition, from [Nobel Prize-winning discoveries in memory and sensory perception](https://www.neurosciencephd.columbia.edu/content/history-program) to the world-class research at the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/about-us) and the [Center for Theoretical Neuroscience (CTN)](https://ctn.zuckermaninstitute.columbia.edu/about). Their experimental, theoretical, and computational approaches to understanding the brain provide a rich setting for exploring BCI and NeuroAI.
 
-Columbia has a distinguished history of neuroscience research, including [Nobel Prize-winning discoveries in memory and sensory perception](https://www.neurosciencephd.columbia.edu/content/history-program). Today, the [Zuckerman Institute](https://zuckermaninstitute.columbia.edu/about-us) and the [Center for Theoretical Neuroscience (CTN)](https://ctn.zuckermaninstitute.columbia.edu/about) carry this tradition forward through world-class experimental, theoretical, and computational research into the brain and mind.
-
-This scientific tradition is matched by a strong history of entrepreneurship, making Columbia an important center for BCI and neurotechnology innovation in the United States, particularly on the East Coast. Members of the Columbia community have founded or co-founded companies including:
+That tradition also extends beyond the lab. Columbia's record of entrepreneurship has made it an important center for BCI and neurotechnology innovation in the United States, particularly on the East Coast. Companies founded or co-founded by members of the Columbia community include:
 
 - **[CTRL-labs](https://about.fb.com/news/2021/03/inside-facebook-reality-labs-wrist-based-interaction-for-the-next-computing-platform/)**, co-founded by Columbia neuroscience alumni and acquired by Facebook in 2019, with its work continuing within Meta's Reality Labs.
 - **[OpenBCI](https://openbci.com/)**, co-founded by Columbia Engineering alumnus [Conor Russomanno](https://conorrussomanno.com/).
@@ -29,4 +21,4 @@ This scientific tradition is matched by a strong history of entrepreneurship, ma
 - **[Sharper Sense](https://www.sharpersense.com/)**, founded by [Charles Rodenkirch](https://www.linkedin.com/in/charlesrodenkirch/), a Columbia biomedical engineering PhD alumnus.
 - **[Kyma Neuro](https://www.kymaneuro.com/)**, founded by [Evan Weiss](https://neclab.bme.columbia.edu/node/103), a Columbia biomedical engineering PhD alumnus.
 
-We welcome students, researchers, alumni, and all members of the Columbia community interested in BCI, neurotechnology, and neuroscience entrepreneurship. Whether you want to explore the science, build a project, or develop an idea for a startup, [join Neurotech X Columbia]({{ '/engage/' | relative_url }}) to learn and create with us.
+Inspired by these paths from research to technology, we welcome students, researchers, alumni, and all members of the Columbia community to explore what comes next. Whether you are new to neuroscience, ready to build a BCI project, or developing an idea for a startup, [join Neurotech X Columbia]({{ '/engage/' | relative_url }}) to learn, experiment, and collaborate with us.
